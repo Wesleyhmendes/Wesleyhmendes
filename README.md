@@ -12,6 +12,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
 
 ### Entusiasta de tecnologia e motivado pela constante evolução. <br/>
-
-## Contribuições:
-![snake gif](https://github.com/Wesleyhmendes/Wesleyhmendes/blob/output/github-contribution-grid-snake.gif)
