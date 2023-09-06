@@ -16,6 +16,6 @@ Atualmente Estudante de Web Desenvolvimento na Trybe usando diversas linguagens 
 ![Wesleyhmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesleyhmendes&show_icons=true&theme=tokyonight)
 
 ## Tecnologias e linguagens usadas no momento:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,redux,react,,git,linux,vscode)](https://skillicons.dev)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
