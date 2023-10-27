@@ -8,6 +8,9 @@ Atualmente Estudante de Web Desenvolvimento na Trybe usando diversas linguagens 
 - Redux.js
 - React Testing Library
 - CSS3
+- Python
+- Banco de dados Relacional (MySQL)
+- Amazon Web Services (AWS)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-mendes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_hmendes/)
@@ -16,6 +19,6 @@ Atualmente Estudante de Web Desenvolvimento na Trybe usando diversas linguagens 
 ![Wesleyhmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesleyhmendes&show_icons=true&theme=tokyonight)
 
 ## Tecnologias e linguagens usadas no momento:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,redux,react,git,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,redux,py,aws,mysql)](https://skillicons.dev)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
