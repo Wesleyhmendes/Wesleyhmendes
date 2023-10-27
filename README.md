@@ -1,3 +1,5 @@
+[![capa](https://media.licdn.com/dms/image/D4D16AQHdWj3FgbLoyw/profile-displaybackgroundimage-shrink_350_1400/0/1693829495047?e=1703721600&v=beta&t=YqIp4MeMWneRX9iyCu4QEU2yXKPGtrosO5imkXpzOMA)](https://github.com/Wesleyhmendes?tab=repositories)
+
 # Olá, eu sou o Wesley! 👋
 Apaixonado por tecnologia e por ideias que transformam o mundo. Meu objetivo é fazer a diferença na vida das pessoas através dos códigos.
 Atualmente Estudante de Web Desenvolvimento na Trybe usando diversas linguagens e tecnologias, dentre elas as principais:
