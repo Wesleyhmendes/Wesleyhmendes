@@ -14,33 +14,33 @@ Sou estudante de programação FrontEnd com conhecimento em BackEnd, AWS e Ciên
 </a>
 </div>
 
-## 🚀 **Languages and Tools:**
+🚀 **Languages and Tools:**
 
- #### 💻 Uso diário (daily use):
+ 💻 Uso diário (daily use):
  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
  
- #### 🎲 Ciência de dados (data science):
+  🎲 Ciência de dados (data science):
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  
- #### 📚 Tenho conhecimento básico (basic knowledge):
+  📚 Tenho conhecimento básico (basic knowledge):
 
   [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
  
- #### 🌱 Estou aprendendo (I'm learning):
+  🌱 Estou aprendendo (I'm learning):
  
  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 <br />
 
-### Atualmente sou desenvolvedor Front End com conhecimento de React.js. Minha jornada na tecnologia começou neste ano quando inicie minha formação FullStack na escola Trybe. Agora, um pouco sobre mim:
+ Atualmente sou desenvolvedor Front End com conhecimento de React.js. Minha jornada na tecnologia começou neste ano quando inicie minha formação FullStack na escola Trybe. Agora, um pouco sobre mim:
 
-### 🛠️ Hard Skills:
+ 🛠️ Hard Skills:
 - Criação de páginas dinâmicas em React.js e JavaScript
 - Conhecimento em TypeScript mantendo o código funcional e seguro.
 - Uso de CSS na criação de páginas resonsivas e modernas
@@ -48,18 +48,18 @@ Sou estudante de programação FrontEnd com conhecimento em BackEnd, AWS e Ciên
 - Conhecimento de Redux.js
 - Experiência em versionamento com Git & GitHub
 
-### 🤝 Soft Skills:
+ 🤝 Soft Skills:
 - Boa comunicação e facilidade para se expressar ou falar em público
 - Boa capacidade em liderar pessoas
 - Facilidade para trabalhar em projetos em grupo
 - Curiosidade para aprender com quem trabalha comigo
 
-### 💻 Conhecimentos Gerais:
+ 💻 Conhecimentos Gerais:
 - Experiência em tráfego pago nas plataformas Meta
 - Conhecimento básico em SEO
 - Experiência com vendas online
 
-### Entre em contato comigo:
+ Entre em contato comigo:
 <br />
 <div id="header" align="center">
  
@@ -70,7 +70,7 @@ Sou estudante de programação FrontEnd com conhecimento em BackEnd, AWS e Ciên
 </div>
 <br />
 
-## Tecnologias e linguagens usadas no momento:
+ Tecnologias e linguagens usadas no momento:
 ![Wesleyhmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesleyhmendes&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
