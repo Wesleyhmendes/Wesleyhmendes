@@ -9,7 +9,7 @@
 Sou estudante de programação FrontEnd com conhecimento em BackEnd, AWS e Ciência de Dados.
 
  <div id="header" align="center">
-  <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
+  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
  </div>
 </a>
 </div>
