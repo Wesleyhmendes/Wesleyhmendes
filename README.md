@@ -97,14 +97,3 @@ Desenvolvedor Jr com experiência de trabalho em Front-end e experiência por pr
   <a href="https://www.instagram.com/wesley_hmendes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
-<br />
-<h3>
- Tecnologias e linguagens usadas no momento:
-</h3>
-<div id="header" align="center">
-
-![Wesleyhmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesleyhmendes&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
-
-</div>
