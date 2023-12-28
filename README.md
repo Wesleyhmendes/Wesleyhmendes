@@ -1,4 +1,4 @@
-[![capa](https://media.licdn.com/dms/image/D4D16AQHdWj3FgbLoyw/profile-displaybackgroundimage-shrink_350_1400/0/1693829495047?e=1703721600&v=beta&t=YqIp4MeMWneRX9iyCu4QEU2yXKPGtrosO5imkXpzOMA)](https://github.com/Wesleyhmendes?tab=repositories)
+[![capa](https://media.licdn.com/dms/image/D4D16AQFDglnQEtldSQ/profile-displaybackgroundimage-shrink_350_1400/0/1703782661714?e=1709164800&v=beta&t=DIdbmjqvVZIEAHgH57xzWYKyKonzUE_YXcZxjUOTAzs)
 
 <div align="center">
 
