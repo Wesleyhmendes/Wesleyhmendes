@@ -6,7 +6,7 @@
 
  ### Seja bem vindo(a)!
 
-Sou Desenvolvedor Jr com experiência de trabalho em Front-end e experiência por projetos em Back-end
+Desenvolvedor Jr com experiência de trabalho em Front-end e experiência por projetos em Back-end
 
  <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
@@ -49,31 +49,41 @@ Sou Desenvolvedor Jr com experiência de trabalho em Front-end e experiência po
 <br />
 
 <h4>
- Atualmente sou desenvolvedor Front End com conhecimento de React.js. Minha jornada na tecnologia começou neste ano quando inicie minha formação FullStack na escola Trybe. Agora, um pouco sobre mim:
+ Atualmente sou Desenvolvedor Front End com experiência em React.js com Typescript. Também tenho conhecimento de back end com node.js e TypeScript. Minha jornada na tecnologia começou neste ano quando inicie minha formação FullStack na escola Trybe, além de participar de um bootcamp de Data Science na Ada Tech e um curso de computação em nuvem na Escola da Nuvem. Agora, um pouco sobre mim:
 </h4>
  
 <h3>
  🛠️ Hard Skills:
 </h3>
 - Criação de páginas dinâmicas em React.js e JavaScript
+<br />
 - Conhecimento em TypeScript mantendo o código funcional e seguro.
+<br />
 - Uso de CSS na criação de páginas resonsivas e modernas
+<br />
 - Implementação de testes em RTL no modelo TDD.
+<br />
 - Conhecimento de Redux.js
+<br />
 - Experiência em versionamento com Git & GitHub
 <h3>
  🤝 Soft Skills:
 </h3>
 - Boa comunicação e facilidade para se expressar ou falar em público
+<br />
 - Boa capacidade em liderar pessoas
+<br />
 - Facilidade para trabalhar em projetos em grupo
+<br />
 - Curiosidade para aprender com quem trabalha comigo
 
 <h3>
  💻 Conhecimentos Gerais:
 </h3>
 - Experiência em tráfego pago nas plataformas Meta
+<br />
 - Conhecimento básico em SEO
+<br />
 - Experiência com vendas online
 
 <h2>
