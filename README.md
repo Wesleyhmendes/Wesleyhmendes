@@ -22,10 +22,16 @@ Sou Desenvolvedor Jr com experiência de trabalho em Front-end e experiência po
 </h4>
 
  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 <h4>
   🎲 Ciência de dados (data science):
@@ -35,16 +41,10 @@ Sou Desenvolvedor Jr com experiência de trabalho em Front-end e experiência po
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 <h4>
-  📚 Tenho conhecimento básico (basic knowledge):
-</h4>
-
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-<h4>
   🌱 Estou aprendendo (I'm learning):
 </h4>
 
- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <br />
 
