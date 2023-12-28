@@ -6,7 +6,7 @@
 
  ### Seja bem vindo(a)!
 
-Sou estudante de programação FrontEnd com conhecimento em BackEnd, AWS e Ciência de Dados.
+Sou Desenvolvedor Jr com experiência de trabalho em Front-end e experiência por projetos em Back-end
 
  <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
