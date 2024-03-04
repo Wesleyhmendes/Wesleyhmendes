@@ -57,8 +57,17 @@ Trabalho com front-end como voluntário e possuo diversos projetos individuais e
  [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-<br />
  
+<div align="center">
+
+ <h3>
+  Linguagens Mais usadas 
+ </h3>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes&layout=compact)](https://github.com/Wesleyhmendes/github-readme-stats)
+
+</div>
+
 <h3>
  🛠️ Competências:
 </h3>
@@ -72,8 +81,6 @@ Trabalho com front-end como voluntário e possuo diversos projetos individuais e
 <br />
 - Experiência em versionamento com Git & GitHub.
 
-
-
 <h3>
  💻 Conhecimentos Gerais:
 </h3>
@@ -82,6 +89,8 @@ Trabalho com front-end como voluntário e possuo diversos projetos individuais e
 - Conhecimento básico em SEO
 <br />
 - Experiência com vendas online
+
+<br />
 
 <h2>
  Entre em contato comigo:
