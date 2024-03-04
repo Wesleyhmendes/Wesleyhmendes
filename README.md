@@ -23,41 +23,34 @@ Trabalho com front-end como voluntário e possuo diversos projetos individuais e
  💻 Front-end:
 </h3>
 
-<h4>React.js, Next.js, TypeScript, JavaScript, CSS3, TailWind, Redux, Testes</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+![My Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![My Skills](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![My Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![My Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![My Skills](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![My Skills](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![My Skills](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
  <h4>
  💻 Back-end:
 </h4>
 
-<h4>Node.js, TypeScript, Docker, MySQL, PostgreSQL, Python</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+![My Skills](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![My Skills](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![My Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <h4>
   🌱 Estou aprendendo (I'm learning):
 </h4>
 
-<h4>Nest.js, Angular, Java</h4>
+![My Skills](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![My Skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
- [![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
- 
 <div align="center">
 
  <h3>
