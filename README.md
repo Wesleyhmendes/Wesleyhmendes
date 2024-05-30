@@ -1,4 +1,4 @@
-![capa](https://media.licdn.com/dms/image/D4D16AQFDglnQEtldSQ/profile-displaybackgroundimage-shrink_350_1400/0/1703782661714?e=1715212800&v=beta&t=8Ry_u6MYVvAJYyD7eWEFszRrvrebQjWsDoFy6c-kxiI)
+![capa](https://media.licdn.com/dms/image/D4D16AQFDglnQEtldSQ/profile-displaybackgroundimage-shrink_350_1400/0/1703782661714?e=1722470400&v=beta&t=NzW1Kzjr-BpdNU_UsKB3SmDtneb08dH3hDYcQ_8WciE)
 
 <div align="center">
 
