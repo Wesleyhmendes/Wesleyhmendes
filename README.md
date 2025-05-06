@@ -4,7 +4,7 @@
 
  ### Seja bem vindo(a)!
 
-Trabalho com front-end como voluntário e possuo diversos projetos individuais e em equipe com uso de React e TypeScript com testes RTL com design responsivo. Além disso, também tenho experiência com diversos projetos em back-end com uso do Node.js com Sequelize, TypeScript com POO e testes unitários e de integração. Possuo também conhecimento em Python.
+Trabalho como desenvolvedor de Software na Liquid AI atuando no desenvolvimento frontend e backend, além de usar diariamente ferramentes AWS. Tenho experiência em tecnologias e linguagens como Python, Reat/Next, Node.js e o básico de Java, bem como conhecimento em testes unitários e de integração.
 
  <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
