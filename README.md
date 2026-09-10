@@ -1,98 +1,71 @@
-<div align="center">
+<h1 align="center">Wesley Mendes</h1>
 
- # Olá, eu sou o Wesley! 👋
+<p align="center">
+  <b>Tech Lead @ Liquid AI</b><br>
+  I build agentic AI systems that run in production, not prototypes.
+</p>
 
- ### Seja bem vindo(a)!
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesley-mendes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wesleymendes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:wesleymendes123321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Trabalho como desenvolvedor de Software na Liquid AI atuando no desenvolvimento frontend e backend, além de usar diariamente ferramentes AWS. Tenho experiência em tecnologias e linguagens como Python, Reat/Next, Node.js e o básico de Java, bem como conhecimento em testes unitários e de integração.
+---
 
- <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="250"/>
- </div>
-</a>
-</div>
-<h2>
-🚀 Languages and Tools:
-</h2>
+## What I build
 
-<br />
+**🤖 Agentic WhatsApp assistant — in production**
+A tool-calling converse-loop on Amazon Bedrock with eleven action tools and a RAG
+sub-agent over a knowledge base I built and publish through its own pipeline.
+Context is engineered in blocks — a cached prefix carrying instructions, tool
+catalogue and knowledge, plus a per-turn volatile directive — so prompt caching
+pays off and cost per conversation drops.
 
-<h3>
- 💻 Front-end:
-</h3>
+Reliability is structural, not prompted: deterministic gates resolve before the
+model runs, guardrails enforce consent and PII masking in code where the prompt
+cannot reach them, and every figure is rendered in code. The model never writes a
+number.
 
-![My Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![My Skills](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![My Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![My Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![My Skills](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![My Skills](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![My Skills](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+**🧠 Agentic operations CRM — front end and API**
+Hexagonal architecture, published OpenAPI contract, versioned migrations with an
+audit trail, per-feature authorization, and a domain model with arbitration-free
+identity merging. Agents work the pipeline alongside human analysts: SLA-bound
+task queue, case timeline, human-in-the-loop on every state change.
 
- <h4>
- 💻 Back-end:
-</h4>
+**⚙️ Multi-agent development harness — how my team ships**
+A planner reads the board, breaks the work down and lays the queue out as a
+dependency graph, dispatching everything unblocked in parallel. Implementer agents
+run per service against versioned ADRs. Reviewer agents send corrections back. A
+contract reviewer checks that service boundaries match the plan. A publisher opens
+the PR and updates the docs. Context routing is a graph over the documentation —
+each document declares the files it covers, so an agent traverses to the exact
+file list instead of scanning the codebase.
 
-![My Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![My Skills](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![My Skills](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![My Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![My Skills](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![My Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+Humans stay at both ends: defining the task, validating the delivery.
 
-<h4>
-  🌱 Estou aprendendo (I'm learning):
-</h4>
+**💳 AI legal SaaS — own product, built solo**
+From nothing to a billable product: multi-tenant with cross-tenant isolation
+covered by tests, Stripe subscription billing with usage limits and dunning, AI
+cost governance (monthly quotas, top-up credit, per-operation ceilings), and
+data-protection compliance shipped before the first customer.
 
-![My Skills](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![My Skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
 
+## Stack
 
-<div align="center">
+**AI** ![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-2D8CFF?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![Tool calling](https://img.shields.io/badge/Tool%20calling-0F9D58?style=flat-square) ![Multi-agent](https://img.shields.io/badge/Multi--agent-8B5CF6?style=flat-square) ![Context engineering](https://img.shields.io/badge/Context%20engineering-EC4899?style=flat-square) ![Guardrails](https://img.shields.io/badge/Guardrails-DC2626?style=flat-square)
 
- <h3>
-  Linguagens Mais usadas 
- </h3>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes&layout=compact)](https://github.com/Wesleyhmendes/github-readme-stats)
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-</div>
+**Server** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-<h3>
- 🛠️ Competências:
-</h3>
-- Criação de páginas dinâmicas em React.js/Next.js e TypeScript.
-<br />
-- Estilziação responsiva com CSS3, TailWind e Styled Components.
-<br />
-- Implementação de testes em React Testing Library e Jest.
-<br />
-- Implementação de estado global com Context API e Redux.js.
-<br />
-- Experiência em versionamento com Git & GitHub.
+**Client** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<h3>
- 💻 Conhecimentos Gerais:
-</h3>
-- Experiência em tráfego pago nas plataformas Meta
-<br />
-- Conhecimento básico em SEO
-<br />
-- Experiência com vendas online
+**Cloud** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<br />
+---
 
-<h2>
- Entre em contato comigo:
-</h2>
-<br />
-<div id="header" align="center">
- 
-  <a href="https://www.linkedin.com/in/wesley-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wesleymendes123321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wesleyhmendes&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" alt="">
+</p>
